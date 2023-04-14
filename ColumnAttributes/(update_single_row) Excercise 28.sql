@@ -1,0 +1,1 @@
+UPDATE invoices_archived
